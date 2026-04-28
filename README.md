@@ -1,4 +1,4 @@
-# DSA Lab Linked List Assignment (C++)
+# DSA-1 Lab Linked List Assignment (C++)
 
 In this repository, I have presented my C++ solutions to the **Linked List Assignment** assigned in the **Data Structures and Algorithms Lab-1** course.
 
