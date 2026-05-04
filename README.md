@@ -1,6 +1,6 @@
 # DSA-1 Lab Linked List Assignment (C++)
 
-In this repository, I have presented my C++ solutions to the **Linked List Assignment** assigned in the **Data Structures and Algorithms Lab-1** course.
+In this repository, I have presented my C++ solutions to the **Linked List Assignment** assigned in the **Data Structures and Algorithms Lab-I** course.
 
 The purpose of this assignment was to develop a practical command over singly linked list operations by implementing every task manually through pointer manipulation, without relying on any built-in linked list libraries.  
 To preserve clarity and organization, I solved each problem in a separate `.cpp` file while carefully following the required input and output specifications.
